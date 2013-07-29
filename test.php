@@ -1,3 +1,3 @@
 <?php
-phpinfo(); 
-?>
+phpinfo();
+$s = sqrt(3.5);
